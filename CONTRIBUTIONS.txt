@@ -1,0 +1,7 @@
+Both partners Reshad and Apaar worked together on Lab7_top, and adding states to the controller state machine
+using peer programming, while taking turns and pointing out each other's mistakes. We added extra output signals while following the diagrams of the labs 5, 6 and lab 7.
+
+
+Connected everything in lab7_top and debugged together using waveforms, going through each
+state,and keeping track manually. We added extra combinational logic which was required as shown in
+the lab document and finally combinational logic for the I/O part.
